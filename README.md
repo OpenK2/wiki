@@ -1,0 +1,3 @@
+This is the wiki for our K2 project.
+
+Coming soon...
